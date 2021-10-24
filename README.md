@@ -3,8 +3,8 @@
 ### I am a passionate full stack developer. I love building, maintaining, and learning about software  🙂
 
 - 🌱 I’m currently learning new web technologies in my free time
-- 🥅 2021 Goal is to contribute more to Open Source projects
 - 🎧 I am almost always listening to music and learning how to play
+- ✉️ I can be contacted via my [Linked In](https://www.linkedin.com/in/teyler-halama-50b136114/) profile
 
 ![Teyler's GitHub stats](https://github-readme-stats.vercel.app/api?username=Teyler7&show_icons=true&theme=dracula)
 
