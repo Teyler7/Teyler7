@@ -1,9 +1,9 @@
 ## Hey there, I'm Teyler 👋
 
-### I am a passionate full stack developer. I love building, maintaining, and learning about software  🙂
+### I am a passionate full-stack developer. I love building, maintaining, and learning about software  🙂
 
 - 🌱 I’m currently learning new web technologies in my free time
-- 🎧 I am almost always listening to music and learning how to play
+- 🎧 I am almost always listening to music
 - ✉️ I can be contacted via my [Linked In](https://www.linkedin.com/in/teyler-halama-50b136114/) profile
 
 ![Teyler's GitHub stats](https://github-readme-stats.vercel.app/api?username=Teyler7&show_icons=true&theme=dracula)
@@ -67,7 +67,7 @@
 
 ---
 
-### Currently Learning in Free-time:
+### Currently Learning in Free Time:
 
 <a href="#" title="Ruby on Rails"><img align="left" alt="Ruby on Rails" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/ruby/ruby-original.svg" /></a>
 <a href="#" title="Ruby on Rails"><img align="left" alt="Ruby on Rails" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/django/django-original.svg" /></a>
