@@ -70,4 +70,5 @@
 ### Currently Learning in Free Time:
 
 <a href="#" title="Ruby on Rails"><img align="left" alt="Ruby on Rails" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/ruby/ruby-original.svg" /></a>
-<a href="#" title="Ruby on Rails"><img align="left" alt="Ruby on Rails" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/django/django-original.svg" /></a>
+<a href="#" title="django"><img align="left" alt="django" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/django/django-original.svg" /></a>
+<a href="#" title="Vim"><img align="left" alt="Vim" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vim/vim-original.svg" /></a>
