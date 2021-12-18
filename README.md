@@ -72,3 +72,4 @@
 
 <a href="#" title="django"><img align="left" alt="django" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/django/django-original.svg" /></a>
 <a href="#" title="Scala"><img align="left" alt="Scala" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/scala/scala-original.svg" /></a>
+<a href="#" title="Rush"><img align="left" alt="Rust" width="26px" src="https://raw.githubusercontent.com/HenningTimm/rust-bio-logo/0736bb9047f5eee4849e1c901fe626bf462e2627/svg/bioferris_light_strand.svg" /></a>
