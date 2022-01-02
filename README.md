@@ -29,18 +29,17 @@
 <a href="#" title="Dart"><img align="left" alt="Dart" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/dart/dart-original.svg" /></a>
 <a href="#" title="Svelte"><img align="left" alt="Svelte" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/svelte/svelte-original.svg" /></a>
 <a href="#" title="Python"><img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/python/python-original.svg" /></a>
-<a href="#" title="PHP"><img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/php/php-plain.svg" /></a>
 <a href="#" title="Jest"><img align="left" alt="Jest" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/jest/jest-plain.svg" /></a>
 <a href="#" title="NPM"><img align="left" alt="NPM" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/npm/npm-original-wordmark.svg" /></a>
 <a href="#" title="Less"><img align="left" alt="Less" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/less/less-plain-wordmark.svg" /></a>
 <a href="#" title="SASS"><img align="left" alt="SASS" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/sass/sass-original.svg" /></a>
 <a href="#" title="AWS"><img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/amazonwebservices/amazonwebservices-original.svg" /></a>
+<a href="#" title="PHP"><img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/php/php-plain.svg" /></a>
 <a href="#" title="Java"><img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/java/java-original.svg" /></a>
-<a href="#" title="MySQL"><img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mysql/mysql-original.svg" /></a>
 <a href="#" title="MongoDB"><img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mongodb/mongodb-original.svg" /></a>
+<a href="#" title="MySQL"><img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mysql/mysql-original.svg" /></a>
 <a href="#" title="Tailwind CSS"><img align="left" alt="Tailwind CSS" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/tailwindcss/tailwindcss-plain.svg" /></a>
 <a href="#" title="Docker"><img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/docker/docker-original.svg" /></a>
-
 
 <br />
 <br />
