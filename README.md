@@ -4,7 +4,6 @@
 
 - 🌱 I’m currently learning new web technologies in my free time
 - 🎧 I am almost always listening to music
-- ✉️ I can be contacted via my [Linked In](https://www.linkedin.com/in/teyler-halama-50b136114/) profile
 
 ![Teyler's GitHub stats](https://github-readme-stats.vercel.app/api?username=Teyler7&show_icons=true&theme=dracula)
 
