@@ -5,8 +5,6 @@
 - 🌱 I’m currently learning new web technologies in my free time
 - 🎧 I am almost always listening to music
 
-![Teyler's GitHub stats](https://github-readme-stats.vercel.app/api?username=Teyler7&show_icons=true&theme=dracula)
-
 ---
 
 ### Learned Languages and Tooling:
