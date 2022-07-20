@@ -1,7 +1,5 @@
 ## Hey there, I'm Teyler 👋
 
-### I am a passionate full-stack developer. I love building, maintaining, and learning about software  🙂
-
 - 🌱 I’m currently learning new web technologies in my free time
 - 🎧 I am almost always listening to music
 
