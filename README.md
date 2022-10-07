@@ -1,8 +1,4 @@
 ## Hey there, I'm Teyler 👋
-
-- 🌱 I’m currently learning new web technologies in my free time
-- 🎧 I am almost always listening to music
-
 ---
 
 ### Languages and Tooling:
