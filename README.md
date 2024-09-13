@@ -29,3 +29,4 @@
 <a href="#" title="Tailwind CSS"><img align="left" alt="Tailwind CSS" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/tailwindcss/tailwindcss-plain.svg" /></a>
 <a href="#" title="Docker"><img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/docker/docker-original.svg" /></a>
 <a href="#" title="Rust"><img align="left" alt="Rust" width="26px" src="https://raw.githubusercontent.com/HenningTimm/rust-bio-logo/0736bb9047f5eee4849e1c901fe626bf462e2627/svg/bioferris_light_strand.svg" /></a>
+<a href="#" title="Elixir"><img align="left" alt="Elixir" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg" /></a>
